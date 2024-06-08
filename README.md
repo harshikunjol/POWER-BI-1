@@ -5,7 +5,7 @@ The Global Superstore dashboard provides a comprehensive overview of sales trans
 ## sales
 Overview of total sales, products, and customers.
 
-# Profit 
+## Profit 
 Focuses on profit data, including profit by year, top products by profit, and profit by segment.
 
  # Conclusion
